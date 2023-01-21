@@ -1,18 +1,15 @@
-<h1>Yii2-Vue.Js-CRUD</h1>
+YII 2 VUEJS
 
-![yii2-vuejs-crud](https://user-images.githubusercontent.com/16609460/42437293-431714da-838f-11e8-86aa-19f8e403bdc4.png)
-
-Simple CRUD application with Yii2 and Vue.js.
-
-INSTALLATION
--------------
-~~~
-composer install
-npm install
-npm run dev
-~~~
-
-Edit the file `config/db.php` with real data and then run:
-~~~
-php yii migrate/up
-~~~
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(1).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(2).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(3).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(4).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(5).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(6).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(7).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(8).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(9).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(10).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(11).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(12).png)
+![alt text](https://github.com/setiaendra18/Pos-Yii2-VueJS/blob/19pnh33/PIC/1%20(13).png)
